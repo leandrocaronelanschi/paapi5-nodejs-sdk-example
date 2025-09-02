@@ -33,7 +33,7 @@ defaultClient.secretKey = '<Y2E0wxYsYuJj+CtM0Amkn0KkgDbNVZ3ZkZFUJbLH>';
  * PAAPI Host and Region to which you want to send request.
  * For more details refer: https://webservices.amazon.com/paapi5/documentation/common-request-parameters.html#host-and-region
  */
-defaultClient.host = 'webservices.amazon.com';
+defaultClient.host = 'webservices.amazon.com.br';
 defaultClient.region = 'us-east-1';
 
 var api = new ProductAdvertisingAPIv1.DefaultApi();
